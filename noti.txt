@@ -1,1 +1,2 @@
 This is test notifcation from server
+server is now updating 
